@@ -20,7 +20,7 @@ pos_str = st.text_input('Enter keyword(s)')
 
 
 
-model = Word2Vec.load('C:/Thesis/Data/save/Master_Data/Model/save_model1_with_6_articles.model')
+model = Word2Vec.load('save_model1_with_6_articles.model')
 # TRAIN THE WORD2VEC MODEL ON THE DATA
 
 
